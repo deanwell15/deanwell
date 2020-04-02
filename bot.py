@@ -102,5 +102,5 @@ def text_handler(message):
 	
 
 
-# RUN 
+# RUN  da
 bot.polling(none_stop = True)
