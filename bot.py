@@ -100,7 +100,7 @@ def text_handler(message):
 
 
 	
-#d sa
+#d sadsa
 
 # RUN 
 bot.polling(none_stop = True)
